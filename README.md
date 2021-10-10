@@ -1,6 +1,6 @@
 # Prototyping (Basic version)
 
-The basic version of prototyping is a Unity3d tool to fast build and test gaming concepts, 
+The basic version of prototyping is a Unity3d tool to fast build and test game concepts, 
 in a more advanced way then paper prototyping provides. 
 
 # Licensing
