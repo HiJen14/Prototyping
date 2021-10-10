@@ -1,3 +1,6 @@
-# ignore compressed files
+# Ignore SabreCSG
+/SabreCSG
+
+# Ignore compressed files
 *.zip
 *.rar
